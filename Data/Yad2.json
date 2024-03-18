@@ -1,0 +1,96 @@
+[
+  {
+    "category": "Clothes",
+    "products": [
+      {
+        "num": 0,
+        "name": "cahi chaim",
+        "price": "70",
+        "description": "Classic denim jeans for everyday wear."
+      },
+      {
+        "num": 1,
+        "name": "cahi chaim",
+        "price": "60",
+        "description": "Classic denim jeans for everyday wear."
+      },
+      {
+        "num": 2,
+        "name": "Sweater",
+        "price": 40,
+        "description": "A cozy sweater for colder days."
+      },
+      {
+        "num": 3,
+        "name": "myBirthday",
+        "price": "40",
+        "description": "A cozy sweater for colder days."
+      },
+      {
+        "num": 4,
+        "name": "",
+        "price": 0,
+        "description": ""
+      },
+      {
+        "num": 5,
+        "name": "",
+        "price": 0,
+        "description": ""
+      },
+      {
+        "num": 6,
+        "name": "jjjjjjj",
+        "price": 0,
+        "description": ""
+      },
+      {
+        "num": 11,
+        "name": "כככככ",
+        "price": "70",
+        "description": "Classic denim jeans for everyday wear."
+      },
+      {
+        "num": 12,
+        "name": "אאאאאאא",
+        "price": 0,
+        "description": ""
+      },
+      {
+        "num": 13,
+        "name": "כככככ",
+        "price": 0,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "electrical",
+    "products": [
+      {
+        "num": 0,
+        "name": "cj",
+        "price": "600",
+        "description": "A high-end smartphone with advanced features."
+      },
+      {
+        "num": 1,
+        "name": "Laptop",
+        "price": 1000,
+        "description": "A powerful laptop for work and gaming."
+      },
+      {
+        "num": 2,
+        "name": "Headphones",
+        "price": 100,
+        "description": "Wireless headphones with noise-cancellation."
+      },
+      {
+        "num": 3,
+        "name": "",
+        "price": 0,
+        "description": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alice",
+    "password": "password123"
+  },
+  {
+    "name": "Bob",
+    "password": "securepassword456"
+  },
+  {
+    "name": "Charlie",
+    "password": "strongpassword789"
+  },
+  {
+    "name": "Char",
+    "password": "$2b$10$T/27ShjDrCB5bbIRyE1O6e6bnH/nq9qqNB556FHHKDbv2.bGlZn4m"
+  },
+  {
+    "name": "Alice",
+    "password": "$2b$10$dONqauqsQQic3lHZ4NENl.mGjcDB3mRulP5XTGA/Id2chnc94dmci"
+  }
+]
